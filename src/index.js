@@ -1,6 +1,6 @@
 function main () {
-  const x = 9
-  return x
+  const praqPadronizar = 'ta tudo certo'
+  return praqPadronizar
 }
 
 main()

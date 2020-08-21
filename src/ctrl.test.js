@@ -1,0 +1,5 @@
+describe('LoadUserByEmail Repository', () => {
+  test('first test', () => {
+    expect(1).toBe(1)
+  })
+})
